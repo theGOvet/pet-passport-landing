@@ -13,6 +13,18 @@ header {
     padding: 20px;
 }
 
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    max-width: 800px; /* Set a max width for desktop */
+    margin-left: auto; /* Center the content */
+    margin-right: auto; /* Center the content */
+    text-align: left; /* Align text left for better readability */
+}
+
 .cta {
     margin: 20px 0;
 }
@@ -24,24 +36,8 @@ header {
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-}
-
-.whatsapp {
-    background-color: #25d366;
+    background-color: #0077b6;
     color: white;
-}
-
-.facebook {
-    background-color: #1877f2;
-    color: white;
-}
-
-.info {
-    margin: 20px;
-    padding: 20px;
-    background-color: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
 }
 
 footer {
@@ -49,4 +45,21 @@ footer {
     padding: 10px;
     background-color: #333;
     color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .content {
+        padding: 15px; /* Slightly smaller padding on mobile */
+        margin: 10px; /* Less margin on mobile */
+    }
+
+    .btn {
+        padding: 12px 18px; /* Smaller buttons on mobile */
+    }
 }
