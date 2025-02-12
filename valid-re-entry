@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valid for Re-entry - Pet Passport Costa del Sol</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Valid for Re-entry into the UK</h1>
+        <p>Why choosing a Pet Passport is your best option for UK re-entry</p>
+    </header>
+
+    <main>
+        <section class="content">
+            <h2>What Makes It Valid?</h2>
+            <p>The pet passport we provide meets all the necessary UK government requirements for pets returning from abroad. It's an official document recognized by UK authorities, so your pet is ready to travel without extra hassle.</p>
+
+            <h2>Why Choose a Pet Passport?</h2>
+            <ul>
+                <li>✅ Recognized by UK authorities for re-entry</li>
+                <li>✅ No need for an additional Animal Health Certificate (AHC)</li>
+                <li>✅ Faster, smoother re-entry for you and your pet</li>
+            </ul>
+        </section>
+
+        <section class="cta">
+            <a href="index.html" class="btn back">Back to Main Page</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Pet Passport Costa del Sol | <a href="mailto:youremail@example.com">Contact Us</a></p>
+    </footer>
+</body>
+</html>
